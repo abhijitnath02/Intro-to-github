@@ -239,6 +239,14 @@ Thank you to all the GDSC Members for their contribution ([:hugs:](https://allco
                     <sub><b>Krishna Moni Das</b></sub>
                 </a> 
             </td>
-        </tr>
+            <td>
+                <td align="center">
+                    <a href="https://github.com/GDSC-AdtU/Intro-to-github">
+                        <img src="https://avatars.githubusercontent.com/u/126272029?s=400&u=68c98223ca4f796e525491f7a94ad245b528d92d&v=4"/ width="100px;" alt="Vikash Singh">
+                        <br />
+                        <sub><b>Vikash Singh</b></sub>
+                    </a>
+                </td>
+            </tr>
     </tbody>
 </table>
